@@ -7,7 +7,7 @@ The code is tested with Python=3.10.0, pytorch=1.13.0, torchaudio=0.13.0, opencv
 Download the dataset via the following web link or web disk link. 
 - RAVDESS：https://zenodo.org/records/1188976
 - CMU-MOSEI：http://immortal.multicomp.cs.cmu.edu/
-- https://pan.baidu.com/s/1F86Xymx9B13voyquk0LRGA?pwd=grox  
+- CREMA-D: https://github.com/CheyneyComputerScience/CREMA-D
 
 **Note: For the dataset provided in the web links, you need to download the files Video_Speech_Actor_[01-24].zip and Audio_Speech_Actors_01-24.zip. Arrange the data set in the following file structure.**
 ```
