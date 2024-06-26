@@ -1,7 +1,7 @@
-# CCMA
+# EAVFormer
 
 ## Environment configuration
-The code is tested with Python=3.9.5, pytorch=1.9.1, numpy=1.22.4, librosa=0.9.1
+The code is tested with Python=3.10.0, pytorch=1.13.0, torchaudio=0.13.0, opencv-python=4.8.0
 
 ## Dataset Download
 Download the dataset via the following web link or web disk link. 
